@@ -2,6 +2,12 @@
 
 [The global reference Curie-point depth model (GCDM) (GeoTIFF)](41598_2017_BFsrep45129_MOESM71_ESM.tif)
 
+## Pictures from the paper
+
+![Figure 1: The global reference Curie-point depth model (GCDM) estimated in this study from the Earth Magnetic Anomaly Grid of αarc-minute resolution (EMAG216)](Figure1.jpg)
+
+## Processing the dataset
+
 ```
 grep -v NaN 41598_2017_BFsrep45129_MOESM71_ESM.txt > 41598_2017_BFsrep45129_MOESM71_ESM.xyz
 gdal_translate -a_srs WGS84 41598_2017_BFsrep45129_MOESM71_ESM.xyz 41598_2017_BFsrep45129_MOESM71_ESM.tif
