@@ -1,4 +1,4 @@
-## The global reference Curie-point depth model (GCDM) estimated from the Earth Magnetic Anomaly Grid of αarc-minute resolution (EMAG2)
+# The global reference Curie-point depth model (GCDM) estimated from the Earth Magnetic Anomaly Grid of αarc-minute resolution (EMAG2)
 
 [The global reference Curie-point depth model (GCDM) (GeoTIFF)](41598_2017_BFsrep45129_MOESM71_ESM.tif)
 
