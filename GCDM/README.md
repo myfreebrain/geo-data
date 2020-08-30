@@ -11,3 +11,6 @@ gdal_translate -a_srs WGS84 41598_2017_BFsrep45129_MOESM71_ESM.xyz 41598_2017_BF
 
 [A global reference model of Curie-point depths based on EMAG2](https://www.nature.com/articles/srep45129?error=cookies_not_supported&code=5244f171-62e1-4d19-9e22-0c49eb92c369)
 [Supplementary Dataset 1 (TXT 120908 kb)](https://static-content.springer.com/esm/art%3A10.1038%2Fsrep45129/MediaObjects/41598_2017_BFsrep45129_MOESM71_ESM.txt)
+[Analysis and mapping of an updated terrestrial heat flow dataset](https://dacemirror.sci-hub.st/journal-article/d27950c22f667566e68610ed1da4d71f/lucazeau2019.pdf)
+[Analysis and Mapping of an Updated Terrestrial Heat Flow Data Set](https://hal.archives-ouvertes.fr/hal-02325104/file/hfinal.pdf)
+[Analysis and Mapping of an Updated Terrestrial Heat Flow Data Set (with Supporting Information)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GC008389)
