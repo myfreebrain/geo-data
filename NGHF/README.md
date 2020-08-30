@@ -4,7 +4,7 @@ TODO
 
 ## Pictures from the paper
 
-TODO
+![Figure 8. Global heat flow map](hfinal.Figure8.png)
 
 ## Processing the datasets
 
